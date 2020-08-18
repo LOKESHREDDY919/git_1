@@ -1,4 +1,4 @@
-Read this!!!!
+Read this!!
 
 # Python Books  
 <img src="https://covers.oreillystatic.com/images/0636920028154/lrg.jpg" width="10%" alt="Learning Python"/>  
